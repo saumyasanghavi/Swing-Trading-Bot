@@ -15,15 +15,15 @@ Swing Trading System is an AI-powered trading platform designed for Indian equit
 * Telegram and email alert support
   
 # Key Capabilities
+* Multi-timeframe analysis across daily, weekly and hourly charts
+* Technical screening using RSI, ADX, MACD, EMA, ATR and Bollinger Bands
+* FinBERT-powered financial news sentiment analysis
+* Market regime detection using NIFTY, India VIX and news sentiment
+* Risk-adjusted position sizing and portfolio allocation
+* Automated trade alerts via Telegram and email
+* Historical strategy backtesting using VectorBT
+* Interactive dashboard for signal visualization and performance analysis
 
-- Multi-timeframe analysis across daily, weekly and hourly charts
-- Technical screening using RSI, ADX, MACD, EMA, ATR and Bollinger Bands
-- FinBERT-powered financial news sentiment analysis
-- Market regime detection using NIFTY, India VIX and news sentiment
-- Risk-adjusted position sizing and portfolio allocation
-- Automated trade alerts via Telegram and email
-- Historical strategy backtesting using VectorBT
-- Interactive dashboard for signal visualization and performance analysis
 # Tech Stack
 * Python
 * Pandas
